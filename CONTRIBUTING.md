@@ -3,12 +3,12 @@
 ## How do you Choose your Project?
 
 1. Pick a set of skills to practice.
-2. Make sure its really fun or something used in real life.
+2. Make sure it's really fun or something used in real life.
 3. Try to make it short: No more than a few hours (you can ask the students to download a boilerplate with previous code that they have to complete instead of starting always from scratch)
 
 ## How to submit a project?
 
-**Basically you have to submit a pull request** to this repository, your project must be droped insited the `/p` folder depending on the project technology and difficulty, for example:
+**Basically you have to submit a pull request** to this repository, your project must be dropped inside the `/p` folder depending on the project technology and difficulty, for example:
 ```
 p/css/beginner/<your_project_name>
 ```
